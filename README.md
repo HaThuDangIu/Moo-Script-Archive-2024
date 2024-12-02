@@ -22,6 +22,5 @@ Credit To : Yurio (My Friends) knowas yurionoway For finder Unpatched method wit
 -
 - $user : is it safe?
 - $hathu : yes it can safe 100% if u take the file from here i upload
--
 
 
