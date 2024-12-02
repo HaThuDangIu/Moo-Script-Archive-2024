@@ -15,7 +15,7 @@ Credit To : Yurio (My Friends) knowas yurionoway For finder Unpatched method wit
 - $hathu : you can install it via tampermonkey or violent monkey
 -
 - $user : what browser will support to install the script?
-- $hathu : chrome, firefox, microsoft edge, oprea/gx, etc... (recommend browser : opera gx) (if the script is bug try browser i list here)
+- $hathu : chrome, firefox, microsoft edge, oprea/gx, etc... recommend browser : opera gx (if the script is bug try browser i list here)
 -
 - $user : does it free?
 - $hathu : yeah it all free only script private we will sell you can contact via my discord for detail
