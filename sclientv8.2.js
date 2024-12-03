@@ -10921,7 +10921,7 @@ var firstSend = {
                 var newMoveDir = getMoveDir();
                 if (lastMoveDir == undefined || newMoveDir == undefined || Math.abs(newMoveDir - lastMoveDir) > 0.3) {
                     if (!freeCam.active) {
-                        io.send("f", newMoveDir);
+                        io.send("9", newMoveDir);
                     }
                     lastMoveDir = newMoveDir;
                     isMoveDir = newMoveDir;
@@ -13720,7 +13720,7 @@ var firstSend = {
             };
             //1.4201
             function move(direction) {
-                io.send("f", direction);
+                io.send("9", direction);
             }
             var autoOneTick = {
                 toggle: false,
@@ -13729,7 +13729,7 @@ var firstSend = {
                     io.send("6", "O_T..");
                     autoAim = true;
                     instaC.isTrue = true;
-                    io.send("f", near.aim2);
+                    io.send("9", near.aim2);
                     buyEquip(53, 0);
                     buyEquip(0, 1);
                     setTimeout(() => {
@@ -13743,7 +13743,7 @@ var firstSend = {
                             autoAim = false;
                             instaC.isTrue = false;
                             buyEquip(6, 0);
-                            io.send("f", null);
+                            io.send("9", null);
                         }, 100);
                     }, 100);
                 }
@@ -13989,13 +13989,13 @@ var firstSend = {
                         bowr = false;
                         buyEquip(40, 0);
                         buyEquip(0, 1);
-                        io.send("f", near.aim2 + Math.PI);
+                        io.send("9", near.aim2 + Math.PI);
                         setTimeout(() => {
                             io.send("F", 1, near.aim2);
                             selectWeapon(player.weapons[1]);
-                            io.send("f", near.aim2);
+                            io.send("9", near.aim2);
                             setTimeout(() => {
-                                io.send("f", null);
+                                io.send("9", null);
                                 buyEquip(53, 0);
                                 setTimeout(() => {
                                     buyEquip(6, 0);
@@ -14443,7 +14443,7 @@ var firstSend = {
                             if (distance > 225 && distance < 230) {
                                 if (isMoveDir != undefined) {
                                     isMoveDir = undefined;
-                                    io.send("f", isMoveDir);
+                                    io.send("9", isMoveDir);
                                 }
                                 if (near.skinIndex != 6 && near.skinIndex != 22) {
                                     autoOneTick.run();
@@ -14452,12 +14452,12 @@ var firstSend = {
                                 if (distance <= 225) {
                                     if (isMoveDir != near.aim2 + Math.PI) {
                                         isMoveDir = near.aim2 + Math.PI;
-                                        io.send("f", isMoveDir);
+                                        io.send("9", isMoveDir);
                                     }
                                 } else if (distance >= 230) {
                                     if (isMoveDir != near.aim2) {
                                         isMoveDir = near.aim2;
-                                        io.send("f", near.aim2);
+                                        io.send("9", near.aim2);
                                     }
                                 }
                                 if (distance > 205 && distance < 250) {
