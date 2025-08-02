@@ -19,7 +19,7 @@ Credit To : Yurio (My Friends) knowas yurionoway For finder Unpatched method wit
 - $hathu : chrome, firefox, microsoft edge, oprea/gx, etc... recommend browser opera gx (if the script is bug try browser i list here)
 -
 - $user : does it free?
-- $hathu : yeah it all free only script private we will sell you can contact via my discord for detail
+- $hathu : yeah it all free , you can contact via my discord for unpatch some script
 -
 - $user : is it safe?
 - $hathu : yes it can safe 100% if u take the file from here i upload
