@@ -1,27 +1,48 @@
-Hi! To all user this is moomoo.io script all is unpatched to use now enjoy! here some q/a
--
-Credit To : Yurio (My Friends) knowas yurionoway For finder Unpatched method with me
--
+# 🚀 MooMoo.io Unpatched Script
 
-- #Support Version : 1.8.1 (2024/10) (Game : MooMoo.io) (Already Unpatched Mod/Script)
-- #Q/A
--
-- $user : is it unpatched?
-- $hathu : yes it already unpatched all the mod here from 2022 or 2023 literally not from 2024
--
-- $user : does it have token logger or something?
-- $hathu : no it not have it clean im sure 100% no any shady code in the script
--
-- $user : how to install the script?
-- $hathu : you can install it via tampermonkey or violent monkey
--
-- $user : what browser will support to install the script?
-- $hathu : chrome, firefox, microsoft edge, oprea/gx, etc... recommend browser opera gx (if the script is bug try browser i list here)
--
-- $user : does it free?
-- $hathu : yeah it all free , you can contact via my discord for unpatch some script
--
-- $user : is it safe?
-- $hathu : yes it can safe 100% if u take the file from here i upload
+Hey there! 👋  
+Welcome to the ultimate **MooMoo.io script** – all fully **unpatched** and ready to use! Enjoy the chaos! ⚡
 
+---
 
+## 🔥 Credits
+Big shoutout to **Yurio** (aka **yurionoway**) – my homie who helped me **find the unpatched methods** for this script. Respect! 💯
+
+---
+
+## ⚙️ Supported Version
+- **Game:** MooMoo.io  
+- **Script Version:** 1.8.1  
+- **Date:** 2024/10  
+- **Status:** Already unpatched / ready to use 🟢
+
+---
+
+## ❓ Q/A Section
+
+**$user:** Is it unpatched?  
+**$hathu:** ✅ Yup, all mods here are unpatched. Works for stuff from 2022 & 2023. Not from 2024 though.
+
+**$user:** Does it have a token logger or shady stuff?  
+**$hathu:** ❌ No way! This script is clean, 100% safe. No sneaky code, promise. 🛡️
+
+**$user:** How do I install it?  
+**$hathu:** Easy! Use **Tampermonkey** or **Violent Monkey**. Script will just run. ⚡
+
+**$user:** Which browsers are supported?  
+**$hathu:** Chrome, Firefox, Edge, Opera GX… recommend **Opera GX** for smoothest experience. If bugs appear, try other browsers I listed. 🌐
+
+**$user:** Is it free?  
+**$hathu:** Absolutely free. 💸 Hit me up on Discord if you want **unpatched scripts**.  
+
+**$user:** Is it safe?  
+**$hathu:** 100% safe if you download directly from here. ✅  
+
+---
+
+💀 **Disclaimer:**  
+This script is for **educational purposes** and testing only. Use responsibly.  
+
+---
+
+**Stay sneaky, stay unstoppable.** 🕶️💻
