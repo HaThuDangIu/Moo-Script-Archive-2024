@@ -21,7 +21,7 @@ Big shoutout to **Yurio** (aka **yurionoway**) – my homie who helped me **find
 ## ❓ Q/A Section
 
 **$user:** Is it unpatched?  
-**$hathu:** ✅ Yup, all mods here are unpatched. Works for stuff from 2022 & 2023. Not from 2024 though.
+**$hathu:** ✅ Yup, all mods here are unpatched. Works
 
 **$user:** Does it have a token logger or shady stuff?  
 **$hathu:** ❌ No way! This script is clean, 100% safe. No sneaky code, promise. 🛡️
